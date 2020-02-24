@@ -1,0 +1,12 @@
+name: Verify
+version: 1.0
+api-version: 1.13
+author: MCTzOCK
+main: de.mctzock.verify.Verify
+commands: 
+    verify:
+        usage: /<command> <password>
+    login:
+        usage: /<comamnd> <password>
+    logout:
+        usage: /<comamnd>
